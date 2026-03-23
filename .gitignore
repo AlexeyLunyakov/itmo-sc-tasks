@@ -197,3 +197,6 @@ cython_debug/
 assignments/n2/checkpoints/
 assignments/n2/data/
 assignments/n2/dataset/
+assignments/n3/data/*
+assignments/n3/lm/*
+assignments/n3/old/*

@@ -1,0 +1,8 @@
+levenshtein
+jiwer
+matplotlib
+pandas
+datasets
+soundfile
+librosa
+transformers
